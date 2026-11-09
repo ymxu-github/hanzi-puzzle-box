@@ -1,0 +1,37 @@
+{
+  "current_session": "2026-11-09_20-57-27",
+  "messages": [
+    {
+      "role": "user",
+      "content": "你好"
+    },
+    {
+      "role": "assistant",
+      "content": "你好呀，一起来猜字谜吧！\n\n“八十八”（打一字）。"
+    },
+    {
+      "role": "user",
+      "content": "不知道"
+    },
+    {
+      "role": "assistant",
+      "content": "没关系，谜底是“米”字——上面一个八、中间一个十、下面一个八，合起来就是“米”啦。要不要再来一题？"
+    },
+    {
+      "role": "user",
+      "content": "来"
+    },
+    {
+      "role": "assistant",
+      "content": "好嘞，请听题：\n\n“口里有人”（打一字）。"
+    },
+    {
+      "role": "user",
+      "content": "囚"
+    },
+    {
+      "role": "assistant",
+      "content": "太棒了！就是“囚”字！要不要再来一题？"
+    }
+  ]
+}
